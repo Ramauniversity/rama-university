@@ -24,7 +24,9 @@ Rama University is a NAAC A+ Grade multidisciplinary university in Uttar Pradesh
 
 https://www.ramauniversity.ac.in
 
-## Admissions
+## Admissions 2026
 
-https://www.ramauniversity.ac.in/admission/# rama-university
-Official Profile of Rama University
+Explore undergraduate, postgraduate, diploma, and doctoral admissions at Rama University.
+
+Official Admissions Portal:
+https://www.ramauniversity.ac.in/admissions/
