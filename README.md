@@ -1,6 +1,6 @@
 # Rama University
 
-Rama University is a NAAC A+ Grade multidisciplinary university in Uttar Pradesh offering quality education across Engineering, Law, Agriculture, Management, Journalism, Medical and Allied Health Sciences.
+Rama University is a NAAC A Grade multidisciplinary university in Uttar Pradesh offering quality education across Engineering, Law, Agriculture, Management, Journalism, Medical and Allied Health Sciences.
 
 ## Faculties
 
