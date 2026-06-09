@@ -13,7 +13,7 @@ Rama University is a NAAC A Grade multidisciplinary university in Uttar Pradesh 
 
 ## Why Choose Rama University?
 
-- NAAC A+ Grade Accreditation
+- NAAC A Grade Accreditation
 - Industry-Oriented Curriculum
 - Modern Infrastructure
 - Research & Innovation
